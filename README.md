@@ -1,7 +1,7 @@
-<h1><img src="https://slackmojis.com/emojis/47633-jojo/download" width="30"/> Hello, World ! </h1>
+<h1><img src="https://slackmojis.com/emojis/47633-jojo/download" width="30"/> Hello, Word ! </h1>
 ========================================================================================
 
-My name is Lucca Constantino. I'm .   👩‍💻
+My name is Lucca Constantino. I'm systems development student. 
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=thaispll&repo=thaispll&countColorcountColor)
 
