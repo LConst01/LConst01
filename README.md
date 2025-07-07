@@ -1,7 +1,7 @@
 <h1><img src="https://slackmojis.com/emojis/47633-jojo/download" width="30"/> Hello, World ! </h1>
 ========================================================================================
 
-My name is Lucca Constantino. I'm a Fullstack Developer.   👩‍💻
+My name is Lucca Constantino. I'm .   👩‍💻
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=thaispll&repo=thaispll&countColorcountColor)
 
