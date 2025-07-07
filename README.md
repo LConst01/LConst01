@@ -1,4 +1,4 @@
-<h1><img src="[https://emojis.slackmojis.com/emojis/images/1587134085/8661/fast_meow_party.gif?1587134085](https://slackmojis.com/emojis/47633-jojo/download)" width="30"/> Hello, World ! </h1>
+<h1><img src="https://slackmojis.com/emojis/47633-jojo" width="30"/> Hello, World ! </h1>
 ========================================================================================
 
 My name is Lucca Constantino. I'm a Fullstack Developer.   👩‍💻
