@@ -3,7 +3,6 @@
 
 My name is Lucca Constantino. I'm systems development student. 
 
-![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=thaispll&repo=thaispll&countColorcountColor)
 
 ### Languages & Tools 🛠  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)	![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
@@ -12,9 +11,9 @@ My name is Lucca Constantino. I'm systems development student.
 
 ### Analytics ⚙️
 
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thaispll&layout=compact&count_private=true)
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=thaispll&hide_border=true)
-![Github Statistics](https://github-readme-stats.vercel.app/api/?username=thaispll&count_private=true&show_icons=true)
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LConst01&layout=compact&count_private=true)
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=LConst01&hide_border=true)
+![Github Statistics](https://github-readme-stats.vercel.app/api/?username=LConst01&count_private=true&show_icons=true)
 
 
 ### Let's connect? 🤝 
