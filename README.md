@@ -1,7 +1,7 @@
 <h1><img src="https://slackmojis.com/emojis/47633-jojo/download" width="30"/> Hello, Word ! </h1>
 ========================================================================================
 
-My name is Lucca Constantino. I'm systems development student. 
+My name is Lucca Constantino. I'm Systems Development student. 
 
 
 ### Languages & Tools 🛠  
